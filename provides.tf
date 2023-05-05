@@ -19,7 +19,7 @@ provider "random" {
 
 provider "aws" {
   # Configuration options
-  access_key = "AKIAQMNNK4K7YGJAXYYJ"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
   region     = var.aws-region
 }
